@@ -11,6 +11,8 @@
 子目录对应 MARCO结合ABC策略的MARCO-ABC算法 和 MARCO-MAM结合ABC策略的MARCO-MAM-ABC算法 运行方式同MARCO
 
 引用格式：
+
 中文引用格式: 蒋璐宇, 欧阳丹彤, 董博文, 张立明. 针对MUS求解问题的加强剪枝策略. 软件学报. http://www.jos.org.cn/1000-9825/6845.htm
+
 英文引用格式: Jiang LY, Ouyang DT, Dong BW, Zhang LM. Enhanced Pruning Scheme for Enumerating MUSes. Ruan Jian Xue Bao/Journal of Software (in Chinese). http://www.jos.org.cn/1000-9825/6845.htm
 
